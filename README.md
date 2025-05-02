@@ -10,7 +10,6 @@ Whether you're building a cheat menu, custom game UI, or just experimenting with
 
 If you're new to this or want a full walkthrough, check out the [video tutorial here](https://youtu.be/mINcRSDJqFc). It covers everything step-by-step, even for complete beginners.
 
-![easy icons](https://github.com/user-attachments/assets/b3cdd4a1-381c-4a08-815d-30527096295e)
-
+![icon font tut](https://github.com/user-attachments/assets/b4638c50-671b-44e0-a931-df6da2372a31)
 
 ![Screenshot 2025-05-02 082728](https://github.com/user-attachments/assets/1dfb2921-8426-4fe5-8b88-b74aea127203)
